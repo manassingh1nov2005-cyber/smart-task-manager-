@@ -100,7 +100,7 @@ java Main
 
 ## 👨‍💻 Author
 
-Ayan Tandon 
+Manas Singh Yadav 
 
 
 
